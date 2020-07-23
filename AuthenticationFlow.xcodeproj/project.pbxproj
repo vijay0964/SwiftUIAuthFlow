@@ -18,7 +18,6 @@
 		2160963424C5C71F00DFE9B0 /* Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2160963324C5C71F00DFE9B0 /* Strings.swift */; };
 		2160963624C5E4E000DFE9B0 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2160963524C5E4E000DFE9B0 /* SignInView.swift */; };
 		2160963A24C5E6AC00DFE9B0 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2160963924C5E6AC00DFE9B0 /* Utils.swift */; };
-		2185CD0724C8146900DBF56B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2185CD0624C8146900DBF56B /* GoogleService-Info.plist */; };
 		21C9CC3824C9A46F003BB8FB /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C9CC3724C9A46F003BB8FB /* SplashView.swift */; };
 		21EE05EA24C69DE600281078 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EE05E924C69DE600281078 /* SignUpView.swift */; };
 		21EE05ED24C6A1E300281078 /* SocialButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EE05EC24C6A1E300281078 /* SocialButtons.swift */; };
@@ -44,7 +43,6 @@
 		2160963324C5C71F00DFE9B0 /* Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
 		2160963524C5E4E000DFE9B0 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		2160963924C5E6AC00DFE9B0 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		2185CD0624C8146900DBF56B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		21C9CC3724C9A46F003BB8FB /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		21EE05E924C69DE600281078 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 		21EE05EC24C6A1E300281078 /* SocialButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialButtons.swift; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 		2160961924C5B5EB00DFE9B0 /* AuthenticationFlow */ = {
 			isa = PBXGroup;
 			children = (
-				2185CD0624C8146900DBF56B /* GoogleService-Info.plist */,
 				21EE05FB24C747A300281078 /* AuthenticationFlow.entitlements */,
 				2160961A24C5B5EB00DFE9B0 /* AppDelegate.swift */,
 				2160961C24C5B5EB00DFE9B0 /* SceneDelegate.swift */,
@@ -242,7 +239,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2160962724C5B5EE00DFE9B0 /* LaunchScreen.storyboard in Resources */,
-				2185CD0724C8146900DBF56B /* GoogleService-Info.plist in Resources */,
 				2160962424C5B5EE00DFE9B0 /* Preview Assets.xcassets in Resources */,
 				2160962124C5B5EE00DFE9B0 /* Assets.xcassets in Resources */,
 			);

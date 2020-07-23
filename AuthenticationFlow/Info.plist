@@ -19,9 +19,11 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb215683759686240</string>
+				<string>fbAPP_ID</string>
 			</array>
 		</dict>
 		<dict>
@@ -29,7 +31,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.684856211989-sun6qhtg6ah25j4nqj0pd3igq8ljs0si</string>
+				<string>REVERSED_CLIENT_ID</string>
 			</array>
 		</dict>
 	</array>
