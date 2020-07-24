@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         ApplicationDelegate.shared.application(application, didFinishLaunchingWithOptions: launchOptions)
         
         //  Google SDK
-        GIDSignIn.sharedInstance()?.clientID = "CLIENT_ID"
+        GIDSignIn.sharedInstance()?.clientID = "684856211989-sun6qhtg6ah25j4nqj0pd3igq8ljs0si.apps.googleusercontent.com"
         
         return true
     }
