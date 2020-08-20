@@ -22,6 +22,6 @@ The sample SwiftUI project to demonstrate the authentication process of Email, F
 
 ## Do this before run the project
 1. Open the project directory in Terminal & run 'pod install'
-2. **Facebook Login** Change the App Id in info.plist & URL Schemes. https://developers.facebook.com/
+2. **Facebook Login:** Change the App Id in info.plist & URL Schemes. https://developers.facebook.com/
 3. **Google Login:** Change the Client Id in AppDelegate & URL Schemes. https://developers.google.com/
 4. **Apple Login:** Change the Bundle Identifier & Development team to support 'Sign in with Apple' feature
